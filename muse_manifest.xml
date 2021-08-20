@@ -1,0 +1,284 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmin.com" resolutions="1x" timestamp="1629444997443">
+  <folder name="css">
+    <file name="site_global.css" crc="209020390"/>
+    <file name="kyocera.css" crc="97874943" ref="kyocera"/>
+    <file name="about.css" crc="3822862686" ref="about"/>
+    <file name="riso.css" crc="3828474581" ref="riso"/>
+    <file name="contact.css" crc="4116815673" ref="contact"/>
+    <file name="index.css" crc="219497308" ref="index"/>
+    <file name="iefonts_index.css" crc="4267652396" ref="index"/>
+    <file name="portfolio.css" crc="4232942512" ref="portfolio"/>
+    <file name="products.css" crc="82786539" ref="products"/>
+  </folder>
+  <folder name="assets">
+    <file name="brochure_taskalfa_3212i_4012i_in.pdf" crc="383462984" seo="true" mt="1629398691000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="museutils.js" crc="3939489907" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portfolio:contact:riso:kyocera:about"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:portfolio:contact:riso:kyocera:about"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1733.php" crc="400315416" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:portfolio:contact:riso:kyocera:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+    <file name="require.js" crc="4177726516" ref="index:products:portfolio:contact:riso:kyocera:about"/>
+  </folder>
+  <folder name="images">
+    <file name="tweeter.png" crc="192439320" ref="index">
+      <caption webpage="index" alt="@MARISSALOWE"/>
+      <caption webpage="index" alt="@ALIGENTH"/>
+      <caption webpage="index" alt="@JOHNSMITH"/>
+    </file>
+    <file name="duplicatorsdd-u2660-fr.png" crc="69135069" ref="index"/>
+    <file name="kyocera-taskalfa-1800-photocopier-machine-500x500-u2678-fr.jpg" crc="345525817" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo-png.jpg" crc="411546676" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="hero1.jpg" crc="394137872" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about"/>
+    <file name="hero2.jpg" crc="4098178783" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="snap_screen_20210818235302.jpg" crc="135373467" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:about"/>
+    <file name="pikpngcom_woman-smiling-png_4850700.png" crc="3814307474" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kyocera-taskalfa-1800-photocopier-machine-500x500.jpg" crc="350271949" ref="index:kyocera">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-2-special-offer-png-pic.png" crc="3766617124" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mf9350.png" crc="3822312567" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inkjet.png" crc="418409009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215359.jpg" crc="4230640699" ref="index:portfolio:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215454.jpg" crc="212562809" ref="index:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215614.jpg" crc="150389094" ref="index:portfolio:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215734.jpg" crc="330590228" ref="index:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215843.jpg" crc="294810996" ref="index:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215920.jpg" crc="4278400523" ref="index:portfolio:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819220000.jpg" crc="247943469" ref="index:portfolio:riso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215359-crop-u4979.jpg" crc="314731210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215454-crop-u4999.jpg" crc="256116781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215614-crop-u5019.jpg" crc="3846617597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215734-crop-u5039.jpg" crc="4125507891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215843-crop-u5059.jpg" crc="4282128368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819215920-crop-u5079.jpg" crc="231961257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210819220000-crop-u5099.jpg" crc="3906853040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empirestatenewyokcity-u2393-fr.png" crc="480076212" ref="index"/>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4230474419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="435617401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="300861052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="439940231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="262429777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="3864086125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="336770731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="4129631760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="60468847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble32x32.jpg" crc="3900312861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook32x32.jpg" crc="3814358492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin32x32.jpg" crc="4032340596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pinterest32x32.jpg" crc="340003248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter32x32.jpg" crc="462041627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3859176163" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="green-bg.png" crc="3906196488" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="9fb46efa-fb99-42ca-a331-52.jpg" crc="35875429" ref="index:portfolio:contact:riso:kyocera:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="kyocera" alt=""/>
+      <caption webpage="riso" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="duplicatorsdd.png" crc="351308328" ref="portfolio:contact:riso">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kyocera-taskalfa-1800-photocopier-machine-500x500-u4896-fr.jpg" crc="3909627035" ref="portfolio"/>
+    <file name="1dd-u4899-fr.jpg" crc="508497986" ref="portfolio"/>
+    <file name="untitledfghvbh-u4902-fr.jpg" crc="4055000531" ref="portfolio"/>
+    <file name="3bghn-u4903-fr.jpg" crc="123022983" ref="portfolio"/>
+    <file name="hanfd.jpg" crc="3862339353" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="aam-admi-ka-digital-press.png" crc="505945008" ref="riso">
+      <caption webpage="riso" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4249739480" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210819235612.jpg" crc="174189910" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210819235356.jpg" crc="388913081" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210819235428.jpg" crc="3811748044" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210819235457.jpg" crc="5999764" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210819235517.jpg" crc="4078302689" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="1dd.jpg" crc="258802268" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="3bghn.jpg" crc="4035986227" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="untitledfghvbh.jpg" crc="258631573" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="untitledfghvbhbbbb.jpg" crc="3773964564" ref="kyocera">
+      <caption webpage="kyocera" alt=""/>
+    </file>
+    <file name="snap_screen_20210820121159.jpg" crc="4142425569" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="475293883" seo="true" mt="1629444837351" redirect="true"/>
+  <file name="products.html" crc="448434640" seo="true" mt="1629390885710" redirect="false"/>
+  <file name="portfolio.html" crc="3972146541" seo="true" mt="1629444355155" redirect="true"/>
+  <file name="contact.html" crc="4164812364" seo="true" mt="1629444373362" redirect="true"/>
+  <file name="riso.html" crc="41455201" seo="true" mt="1629444310188" redirect="true"/>
+  <file name="kyocera.html" crc="321301569" seo="true" mt="1629444329707" redirect="true"/>
+  <file name="about.html" crc="9076880" seo="true" mt="1629444298299" redirect="true"/>
+</manifest>
